@@ -20,6 +20,11 @@ Navigation: [[index]] | [[hot]] | [[overview]]
 
 Append-only. New entries go at the TOP. Never edit past entries.
 
+## [2026-04-28] save | Wiki Lint — Automatización Semanal con Claude Code Remote
+- Type: decision
+- Location: wiki/meta/wiki-lint-weekly-automation.md
+- From: setup completo de rutina CCR semanal: gh CLI install, auth GitHub, fork sebascarrillof/claude-obsidian, PAT embebido, routine trig_017ZaJrA39655maDk5ELyvCs, merge conflict v1.6.0 resuelto
+
 ## [2026-04-28] save | Generación de Imágenes IA Gratis — Claude Banana + FLUX.1 Workflow
 - Type: synthesis
 - Location: wiki/questions/generacion-imagenes-ia-gratis-claude-banana-flux.md
