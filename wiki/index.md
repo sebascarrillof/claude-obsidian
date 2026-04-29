@@ -1,6 +1,7 @@
 ---
 type: meta
 title: "Wiki Index"
+created: 2026-04-07
 updated: 2026-04-07
 tags:
   - meta
@@ -23,7 +24,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-04-08 | Total pages: 26 | Sources ingested: 2
+Last updated: 2026-04-28 | Total pages: 31 | Sources ingested: 2
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
@@ -58,6 +59,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 
 ## Questions
 
+- [[generacion-imagenes-ia-gratis-claude-banana-flux]] — fórmula 7 componentes (Claude Banana), FLUX.1 dev gratis vía HF Spaces, mapa herramientas imagen/video 2025 (status: developing)
 - [[How does the LLM Wiki pattern work]] — how the pattern works and why it outperforms RAG at human scale (status: developing)
 
 ---
@@ -72,3 +74,16 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 ## Domains
 
 <!-- Add domain entries here after scaffold -->
+
+---
+
+## Decisiones de Configuración
+
+- [[meta/claude-code-autonomia-maxima]] — autonomía máxima en Claude Code: settings.json permisos + CLAUDE.md flujo un paso (2026-04-28)
+
+---
+
+## Sesiones de Proyecto
+
+- [[meta/contratos-depas-37-mariana-session-2026-04-20]] — Depa 37, primer inquilino mexicano; reglas INE, bug títulos, template hoja de contacto
+- [[meta/yourenergy-session-2026-04-19]] — YouREnergy Instagram designs + auto-linking Obsidian

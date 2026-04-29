@@ -1,6 +1,7 @@
 ---
 type: meta
 title: "Operation Log"
+created: 2026-04-07
 updated: 2026-04-08
 tags:
   - meta
@@ -18,6 +19,26 @@ related:
 Navigation: [[index]] | [[hot]] | [[overview]]
 
 Append-only. New entries go at the TOP. Never edit past entries.
+
+## [2026-04-28] save | Generación de Imágenes IA Gratis — Claude Banana + FLUX.1 Workflow
+- Type: synthesis
+- Location: wiki/questions/generacion-imagenes-ia-gratis-claude-banana-flux.md
+- From: instalación claude-banana, fórmula 7 componentes, investigación herramientas gratuitas, generación exitosa con FLUX.1 [dev] vía HF Spaces sin billing
+
+## [2026-04-28] save | Claude Code — Configuración de Autonomía Máxima
+- Type: decision
+- Location: wiki/meta/claude-code-autonomia-maxima.md
+- From: configuración de settings.json (defaultMode auto + allow list), CLAUDE.md (flujo un paso), memoria persistente de preferencia de autonomía
+
+## [2026-04-20] save | Contratos DEPAS — Depa 37, Inquilino Mexicano, Reglas INE
+- Type: session
+- Location: wiki/meta/contratos-depas-37-mariana-session-2026-04-20.md
+- From: Contrato depa 37 (Mariana Medina Reynoso), reglas INE mexicana (OCR trasero), bug títulos intercambiados, template hoja de contacto modificado para inquilino único
+
+## [2026-04-19] save | YouREnergy — Instagram Content + Obsidian Auto-Linking System
+- Type: session
+- Location: wiki/meta/yourenergy-session-2026-04-19.md
+- From: YouREnergy Instagram Canva designs (4 piezas), sistema auto-linking Obsidian Clippings → proyectos, stack evidencia científica Myopulse (Nobel 1991 + Lennox 2002)
 
 Entry format: `## [YYYY-MM-DD] operation | Title`
 
@@ -49,7 +70,7 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 - Location: wiki/meta/claude-obsidian-v1.2.0-release-session.md
 - From: full build session — v1.2.0 plan execution, cosmic-brain→claude-obsidian rename, legal/security audit, branded GIFs, PDF install guide, dual GitHub repos
 
-
+## [2026-04-07] ingest | First source ingest
 - Source: `.raw/` (first ingest)
 - Pages updated: [[index]], [[log]], [[hot]], [[overview]]
 - Key insight: The wiki pattern turns ephemeral AI chat into compounding knowledge — one user dropped token usage by 95%.

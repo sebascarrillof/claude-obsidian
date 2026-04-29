@@ -1,7 +1,8 @@
 ---
 type: meta
 title: "Dashboard"
-updated: 2026-04-08
+created: 2026-04-07
+updated: 2026-04-28
 tags:
   - meta
   - dashboard
@@ -17,6 +18,8 @@ related:
 # Wiki Dashboard
 
 Navigation: [[index]] | [[overview]] | [[log]] | [[hot]]
+
+Last health check: [[lint-report-2026-04-28]] — 2026-04-28 | 31 pages | 23 issues (2 critical, 10 warnings, 11 suggestions)
 
 The dashboard uses **Obsidian Bases**. A core Obsidian feature shipped in v1.9.10 (August 2025). No plugin install required.
 

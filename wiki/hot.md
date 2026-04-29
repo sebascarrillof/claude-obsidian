@@ -1,6 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
+created: 2026-04-07
 updated: 2026-04-08T19:00:00
 tags:
   - meta
@@ -57,6 +58,23 @@ There is no `claude plugin install github:owner/repo` shortcut. Both steps are r
 
 ## Ecosystem Research (Done 2026-04-08)
 16+ Claude + Obsidian projects mapped. Full feature matrix at [[claude-obsidian-ecosystem]]. Prioritized backlog at [[cherry-picks]]. Top competitors: [[Ar9av-obsidian-wiki]] (multi-agent + delta tracking), [[rvk7895-llm-knowledge-bases]] (multi-depth query), [[ballred-obsidian-claude-pkm]] (goal cascade + auto-commit), [[kepano-obsidian-skills]] (authoritative Obsidian skills from Obsidian's own creator).
+
+## Last Session (2026-04-20) — Contratos DEPAS Depa 37
+
+- **Inquilino mexicano**: Mariana Montserrat Medina Reynoso, depa 37, Torre E, $12,000/mes, 1 año (ago 2026 - jul 2027)
+- **INE mexicana**: número de credencial = OCR trasero (después de `<<` en primera línea MRZ). Ejemplo: `IDMEX2672049918<<5223138175252` -> usar `5223138175252`
+- **CURP va en campo RFC** de Generales II del contrato
+- **Bug script**: títulos señorita/señor intercambiados en encabezado y Generales I cuando inquilino es femenino. Corrección manual en runs [0][16], [0][20], [56][2]
+- **Template hoja de contacto** modificado permanentemente: eliminados segundo NOMBRE/CEL y segunda EMERGENCIA/CEL. Todos los contratos futuros = inquilino único
+- Full session: [[meta/contratos-depas-37-mariana-session-2026-04-20]]
+
+## Last Session (2026-04-19) — YouREnergy
+
+- **4 Canva designs** completed for Instagram (@yourenergy.mx): ATP carrusel, Microcorriente carrusel, Lifting Facial post, 5 Señales post
+- **Auto-linking system** built in cerebro-digital: Clippings → Projects auto-tagged by keyword rules in `_CLAUDE.md`
+- **3 competitor accounts** linked to YouREnergy: @zamma_spa, @helaspamexico, @desertika.spa
+- **2 science notes** created: Lennox 2002 (Myopulse 75F clinical study, 92% mejora) + Nobel 1991 (Neher & Sakmann, ion channels)
+- Full session note: [[meta/yourenergy-session-2026-04-19]]
 
 ## Active Threads
 - v1.5.0 backlog: `/adopt` command, vault graph analysis in wiki-lint, semantic search via qmd, Marp output

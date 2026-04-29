@@ -11,11 +11,7 @@
   "plugins": [
     {
       "name": "claude-obsidian",
-      "source": {
-        "source": "github",
-        "repo": "AgriciDaniel/claude-obsidian",
-        "ref": "main"
-      },
+      "source": "./",
       "description": "Claude + Obsidian knowledge companion. Sets up a persistent, compounding wiki vault. Covers memory management, session notetaking, knowledge organization, and agent context across projects.",
       "version": "1.4.2",
       "author": {

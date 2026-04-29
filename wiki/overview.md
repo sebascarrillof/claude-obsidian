@@ -2,7 +2,7 @@
 type: overview
 title: "Wiki Overview"
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-04-28
 tags:
   - meta
   - overview
@@ -49,15 +49,14 @@ Run `/wiki` to scaffold this vault for your own domain and replace this overview
 ## Current State
 
 - Sources ingested: 2
-- Wiki pages: 26
-- Last activity: 2026-04-08 (v1.4.1 shipped, release session filed)
+- Wiki pages: 31
+- Last activity: 2026-04-28
 
 ---
 
 ## Canvases
 
 - [[claude-obsidian-presentation]] — Full presentation: hero, overview, skills, architecture, Wiki vs RAG, visual demos (2026-04-07)
-- [[AI Marketing Hub Cover Images Canvas]] — Cover image library for AI Marketing Hub brand assets
 
 ---
 

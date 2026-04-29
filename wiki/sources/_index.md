@@ -1,7 +1,8 @@
 ---
 type: meta
 title: "Sources Index"
-updated: 2026-04-07
+created: 2026-04-07
+updated: 2026-04-28
 tags:
   - meta
   - index
@@ -12,6 +13,7 @@ related:
   - "[[log]]"
   - "[[entities/_index]]"
   - "[[Andrej Karpathy]]"
+  - "[[claude-obsidian-ecosystem-research]]"
 ---
 
 # Sources Index
@@ -22,14 +24,15 @@ All source pages — summaries of ingested documents, transcripts, articles, and
 
 ---
 
-## Transcripts
+## Articles
 
+- [[claude-obsidian-ecosystem-research]] — 2026-04-08 | web research across 16+ Claude+Obsidian repos | 8 wiki pages created
 
 ---
 
-## Articles
+## Transcripts
 
-<!-- Add article source pages here -->
+<!-- Add transcript source pages here -->
 
 ---
 
