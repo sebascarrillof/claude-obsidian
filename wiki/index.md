@@ -99,7 +99,7 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[
 ## Decisiones de Configuración
 
 - [[meta/claude-code-autonomia-maxima]] — autonomía máxima en Claude Code: settings.json permisos + CLAUDE.md flujo un paso (2026-04-28)
-- [[meta/wiki-lint-weekly-automation]] — agente remoto CCR lunes 9 AM Mérida; fork sebascarrillof/claude-obsidian; PAT embebido; routine trig_017ZaJrA39655maDk5ELyvCs (2026-04-28)
+- [[meta/lint-automatizacion-semanal]] — agente remoto CCR lunes 9 AM Mérida; fork sebascarrillof/claude-obsidian; PAT embebido; routine trig_017ZaJrA39655maDk5ELyvCs (2026-04-28)
 
 ---
 
